@@ -5,6 +5,7 @@ readme de exemplo
 Comandos utilizados:
 
 git config --global user.name "Heleno Vitor" //nome de usuário
+
 git config --global user.email "helenovictormecatronica@gmail.com" //e-mail
 git init  //inicia o repositório local
 git status  //verifica alterações no repositório local
